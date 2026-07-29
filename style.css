@@ -1,6 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&family=Oswald:wght@200..700&display=swap');
+
 :root{
     --roxo: #2b2d42ff;
     --cinza: #8d99aeff;
     --branco: #edf2f4ff;
     --vermelho: #ef233cff;
+     --texto: "Saira",sans-serif;
+     --titulo:"Archivo Black", sans-serif;
+} 
+
+body{
+    background-color: var(--cinza);
+    font-family: var(--texto);
 }
